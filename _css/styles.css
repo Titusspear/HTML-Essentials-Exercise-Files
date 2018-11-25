@@ -1,5 +1,5 @@
 html, body {
-	background: #663399; /* Beccapurple */
+	background: #663399 <--<Beccapurple>-->
 	margin: 0;
 }
 h1, h2, h3, h4, h5, h6, p {
@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: rgb(107, 107, 132);
 }
 body {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: Verdana, Geneva, default;
 	font-size: 100%;
 	width: 80%;
 	margin-right: auto;
